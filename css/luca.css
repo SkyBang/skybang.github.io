@@ -3,8 +3,10 @@ html, body{
 	margin: 0;
 }
 header{
-	background-color: #2593F3;
+	background-color: #ffffff;
 	padding: 40px;
+	border-image:"img/ok lol.jpg";
+	background-repeat: repeat;
 	text-align: center;
 }
 
