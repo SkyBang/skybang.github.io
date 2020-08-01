@@ -5,7 +5,7 @@ html, body{
 header{
 	background-color: #ffffff;
 	padding: 40px;
-	background-image:url("skybang.github.io/ok_lol_img.html");
+	background-image: src="img/ok_lol";
 	background-repeat: repeat;
 	text-align: center;
 }
