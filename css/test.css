@@ -1,0 +1,14 @@
+h1
+		{
+			color: blue;
+			text-decoration:line-through;
+			font-style: oblique;
+		}
+		h2
+		{
+
+		}
+		.small
+		{
+		font-size: 22px;
+		}
