@@ -5,7 +5,7 @@ html, body{
 header{
 	background-color: #ffffff;
 	padding: 40px;
-	border-image:"img/ok lol.jpg";
+	background-image:url("skybang.github.io/ok_lol_img.html");
 	background-repeat: repeat;
 	text-align: center;
 }
@@ -13,12 +13,16 @@ header{
 h1{
 font-size: 90px;
 color: white;
+text-shadow: 0 4px 20px black;
+margin: 0;
+text-transform: uppercase;
 }
 
 header img{
 	border-radius: 150px;
 	width: 300px;
 	border: 10px solid #99d6ff;
+	box-shadow: 0 10px 20px black;
 }
 .content{
 	max-width: 900px;
